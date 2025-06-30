@@ -65,11 +65,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-**If you're on Mac or Linux:**
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
 
 #### Step 3: Install the Required Packages
 
